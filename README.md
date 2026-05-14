@@ -1,18 +1,8 @@
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════╗
-║                                                           ║
-║   ██████╗  █████╗ ██╗   ██╗██████╗  █████╗ ██╗   ██╗   ║
-║  ██╔════╝ ██╔══██╗██║   ██║██╔══██╗██╔══██╗██║   ██║   ║
-║  ██║  ███╗███████║██║   ██║██████╔╝███████║██║   ██║   ║
-║  ██║   ██║██╔══██║██║   ██║██╔══██╗██╔══██║╚██╗ ██╔╝   ║
-║  ╚██████╔╝██║  ██║╚██████╔╝██║  ██║██║  ██║ ╚████╔╝    ║
-║   ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝    ║
-║                                                           ║
-║              SHARAN KUMAR // FULL-STACK DEV              ║
-╚═══════════════════════════════════════════════════════════╝
-```
+<p align="center">
+  <img src="Gaurav Sharan Kumar.png" width="500" height="250"/>
+<p align="center">
 
 <a href="https://gauravsharankumar.com">
   <img src="https://img.shields.io/badge/🌐_Portfolio-gauravsharankumar.com-0d1117?style=for-the-badge&labelColor=00ff88&color=0d1117" />
