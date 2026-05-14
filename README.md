@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/🌐_Portfolio-gauravsharankumar.com-0d1117?style=for-the-badge&labelColor=00ff88&color=0d1117" />
 </a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=BCT+Undergraduate+%40+ACEM%2C+TU;Full-Stack+Dev+in+the+Making;Blockchain+%7C+Web+%7C+AI-ML+Explorer;IOE+Rank+9+%E2%80%94+Nationwide+2081+BS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=BCT+Undergraduate+%40+ACEM%2C+TU;Full-Stack+Developer;AI-ML+Enthusiast;IOE+Rank+9+%E2%80%94+Nationwide+2081+BS)](https://git.io/typing-svg)
 
 </div>
 
