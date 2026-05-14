@@ -246,12 +246,13 @@ echo "Status: 🟢 Online and shipping"
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════╗
-║  Open to internships, collabs & open-source work.   ║
-║  Drop a mail or connect — let's build something.    ║
-╚══════════════════════════════════════════════════════╝
-```
+> *Open to research collaborations, open source contributions, and internship opportunities.*
+>
+> **Drop a mail or connect on LinkedIn**
+
+</div>
+<div align="center">
+
 
 *"Still early. Still shipping. Always curious."*
 
