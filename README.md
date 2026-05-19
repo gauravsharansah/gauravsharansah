@@ -175,15 +175,14 @@ Stack: HTML  ·  CSS  ·  JavaScript
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats-g09.vercel.app/api?username=gauravsharansah&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&ring_color=00ff88" />
-<img height="160" src="https://github-readme-stats-g09.vercel.app/api/top-langs/?username=gauravsharansah&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9&langs_count=6" />
+<img height="160" src="https://github-readme-stats-g09.vercel.app/api?username=gauravsharansah&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&ring_color=00ff88&cache_seconds=1" />
+<img height="160" src="https://github-readme-stats-g09.vercel.app/api/top-langs/?username=gauravsharansah&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9&langs_count=6&cache_seconds=1" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=gauravsharansah&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=c9d1d9&dates=8b949e)](https://github.com/gauravsharansah)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=gauravsharansah&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=c9d1d9&dates=8b949e&cache_seconds=0)](https://github.com/gauravsharansah)
 </div>
 
 ---
