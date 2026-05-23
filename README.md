@@ -174,12 +174,13 @@ Stack: HTML  ·  CSS  ·  JavaScript
 ## `$ git log --stat`
 
 <div align="center">
-<img height="160" src="https://github-stats-proxy.shambhu1gaurabh.workers.dev/?type=stats" />
-<img height="160" src="https://github-stats-proxy.shambhu1gaurabh.workers.dev/?type=langs" />
+  <img height="160" src="https://github-stats-proxy.vercel.app/api?type=stats" />
+  <img height="160" src="https://github-stats-proxy.vercel.app/api?type=langs" />
 </div>
 <div align="center">
 
-[![GitHub Streak](https://github-stats-proxy.shambhu1gaurabh.workers.dev/?type=streak)](https://github.com/gauravsharansah)
+[![GitHub Streak](https://github-stats-proxy.vercel.app/api?type=streak)](https://github.com/gauravsharansah)
+
 </div>
 
 ---
