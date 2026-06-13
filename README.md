@@ -100,19 +100,16 @@ const gaurav = {
 ## `$ ls -la ./projects`
 
 ### 🔷 [IOE Gurukul](https://ioegurukul.vercel.app) — *Full-Stack · Solo Build* &nbsp; [![Live](https://img.shields.io/badge/Live-ioegurukul.vercel.app-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://ioegurukul.vercel.app)
-> The complete entrance exam prep platform for Nepal's IOE B.E./B.Arch. entrance — built by a student, for students.
-
+> Nepal's complete B.E./B.Arch entrance exam prep platform — built around the official TU IOE syllabus, with negative marking, AI tutoring, and a real-time classroom.
 ```
 Stack: React 18 + Vite  ·  FastAPI  ·  MongoDB  ·  Vercel  ·  TailwindCSS  ·  KaTeX  ·  Groq API
 ```
-
-- 🧪 **5 exam modes** — Full Mock, Daily Practice, Weekly Test, Chapter Practice, Previous Year Papers
+- 🧪 **5 exam modes** — Full Mock, Daily Practice, Weekly Test, Chapter Practice, Previous Year Papers (IOE-accurate negative marking)
 - 🤖 **Guru** — AI study assistant (Llama 3.3 70B) scoped strictly to IOE subjects
 - 💬 **Live Classroom** — SSE-powered real-time discussion room with admin moderation
 - 📐 **LaTeX rendering** — native math via KaTeX, Word export with OOXML equations
 - ⚡ **9 DB queries** via `asyncio.gather` for test generation (down from ~80 sequential)
 - 🔐 **Single active session enforcement** — rotating session tokens per login
-
 ---
 
 ### 🔷 [Fulbari Yuba Club Website](https://github.com/gauravsharansah/fulbari-yuba-club) — *Full-Stack · Solo Build* &nbsp; [![Live](https://img.shields.io/badge/Live-fulbariyubaclub.vercel.app-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://fulbariyubaclub.vercel.app)
