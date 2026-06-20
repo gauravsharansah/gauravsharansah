@@ -104,7 +104,7 @@ const gaurav = {
 ```
 Stack: React 18 + Vite  ·  FastAPI  ·  MongoDB  ·  Vercel  ·  TailwindCSS  ·  KaTeX  ·  Groq API
 ```
-- 🧪 **5 exam modes** — Full Mock, Daily Practice, Weekly Test, Chapter Practice, Previous Year Papers (IOE-accurate negative marking)
+- 🧪 **4 exam modes** — Full Mock, Daily Practice, Weekly Test, Chapter Practice (IOE-accurate negative marking)
 - 🤖 **Guru** — AI study assistant (Llama 3.3 70B) scoped strictly to IOE subjects
 - 💬 **Live Classroom** — SSE-powered real-time discussion room with admin moderation
 - 📐 **LaTeX rendering** — native math via KaTeX, Word export with OOXML equations
