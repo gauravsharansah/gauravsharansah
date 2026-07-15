@@ -150,7 +150,7 @@ Stack: Python  ·  Pygame  ·  PyOpenGL  ·  NumPy  ·  pywavefront (.obj models
 
 ---
 
-### 🔷 NFT Marketplace UI — *Figma → HTML/CSS*
+### 🔷 [NFT Marketplace UI](https://figmapractice124.vercel.app) — *Figma → HTML/CSS*
 > Pixel-faithful translation of a Figma NFT marketplace design into a static HTML/CSS/JS frontend.
 
 ```
