@@ -104,15 +104,15 @@ const gaurav = {
 ```
 Stack: React 18 + Vite  ·  FastAPI  ·  MongoDB  ·  Vercel  ·  TailwindCSS  ·  KaTeX  ·  Groq API
 ```
-- 🧪 **4 exam modes** — Full Mock, Daily Practice, Weekly Test, Chapter Practice (IOE-accurate negative marking)
+- 🧪 **5 exam modes** — Full Mock, Daily Practice, Weekly, Chapter Practice and Old Question tests (IOE-accurate negative marking)
 - 🤖 **Guru** — AI study assistant (Llama 3.3 70B) scoped strictly to IOE subjects
 - 💬 **Live Classroom** — SSE-powered real-time discussion room with admin moderation
 - 📐 **LaTeX rendering** — native math via KaTeX, Word export with OOXML equations
-- ⚡ **9 DB queries** via `asyncio.gather` for test generation (down from ~80 sequential)
+- ⚡ **9 DB queries** via `asyncio.gather` for test generation
 - 🔐 **Single active session enforcement** — rotating session tokens per login
 ---
 
-### 🔷 [Fulbari Yuba Club Website](https://github.com/gauravsharansah/fulbari-yuba-club) — *Full-Stack · Solo Build* &nbsp; [![Live](https://img.shields.io/badge/Live-fulbariyubaclub.vercel.app-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://fulbariyubaclub.vercel.app)
+### 🔷 [Fulbari Yuba Club Website](https://fulbariyubaclub.vercel.app) — *Full-Stack · Solo Build* &nbsp; [![Live](https://img.shields.io/badge/Live-fulbariyubaclub.vercel.app-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://fulbariyubaclub.vercel.app)
 > Official community website for a youth football club in Okhaldhunga, Nepal.
 
 ```
